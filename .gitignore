@@ -1,0 +1,13 @@
+
+data/sales.csv
+data/Cleaned_Retail_Data.csv
+
+
+.idea/
+*.iml
+__pycache__/
+*.pyc
+
+
+.DS_Store
+Thumbs.db
